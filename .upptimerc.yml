@@ -8,10 +8,12 @@ sites:
     url: https://www.havo.co.id
   - name: Dony
     url: https://www.dony.me
-
+#  - name: Secret Site
+#    url: $SECRET_SITE
+  
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: www.havo.co.id
+  # cname: www.havo.co.id
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
