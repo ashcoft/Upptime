@@ -4,27 +4,29 @@
     "url": "https://www.havo.co.id",
     "icon": "https://favicons.githubusercontent.com/www.havo.co.id",
     "slug": "havo",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 3007,
     "timeDay": 2560,
     "timeWeek": 3327,
     "timeMonth": 3007,
     "timeYear": 3007,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-09": 1
+    }
   },
   {
     "name": "Dony",
     "url": "https://www.dony.me",
     "icon": "https://favicons.githubusercontent.com/www.dony.me",
     "slug": "dony",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 2279,
     "timeMonth": 2093,
     "timeYear": 2093,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-09": 0
+    }
   }
 ]
