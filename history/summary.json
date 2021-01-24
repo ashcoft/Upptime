@@ -4,10 +4,10 @@
     "url": "https://www.havo.co.id",
     "icon": "https://favicons.githubusercontent.com/www.havo.co.id",
     "slug": "havo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.05%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.05%",
     "uptimeYear": "99.05%",
     "time": 2958,
@@ -16,6 +16,7 @@
     "timeMonth": 2958,
     "timeYear": 2958,
     "dailyMinutesDown": {
+      "2021-01-24": 1,
       "2021-01-10": 115,
       "2021-01-09": 198
     }
@@ -25,18 +26,19 @@
     "url": "https://www.dony.me",
     "icon": "https://favicons.githubusercontent.com/www.dony.me",
     "slug": "dony",
-    "status": "up",
-    "uptime": "99.05%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.06%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.05%",
-    "uptimeYear": "99.05%",
+    "uptimeMonth": "99.06%",
+    "uptimeYear": "99.06%",
     "time": 2053,
     "timeDay": 1909,
     "timeWeek": 1958,
     "timeMonth": 2053,
     "timeYear": 2053,
     "dailyMinutesDown": {
+      "2021-01-24": 0,
       "2021-01-10": 115,
       "2021-01-09": 198
     }
