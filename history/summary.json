@@ -4,10 +4,10 @@
     "url": "https://www.havo.co.id",
     "icon": "https://favicons.githubusercontent.com/www.havo.co.id",
     "slug": "havo",
-    "status": "up",
+    "status": "down",
     "uptime": "89.74%",
-    "uptimeDay": "73.52%",
-    "uptimeWeek": "96.22%",
+    "uptimeDay": "73.48%",
+    "uptimeWeek": "96.21%",
     "uptimeMonth": "98.38%",
     "uptimeYear": "89.74%",
     "time": 2295,
@@ -16,7 +16,7 @@
     "timeMonth": 1834,
     "timeYear": 2295,
     "dailyMinutesDown": {
-      "2021-12-26": 381,
+      "2021-12-26": 382,
       "2021-12-11": 258,
       "2021-12-05": 27,
       "2021-12-01": 43,
@@ -138,12 +138,12 @@
     "url": "https://www.dony.me",
     "icon": "https://favicons.githubusercontent.com/www.dony.me",
     "slug": "dony",
-    "status": "up",
-    "uptime": "88.78%",
-    "uptimeDay": "73.56%",
+    "status": "down",
+    "uptime": "88.84%",
+    "uptimeDay": "73.55%",
     "uptimeWeek": "96.22%",
     "uptimeMonth": "97.74%",
-    "uptimeYear": "88.78%",
+    "uptimeYear": "88.84%",
     "time": 1866,
     "timeDay": 1354,
     "timeWeek": 1231,
@@ -266,9 +266,7 @@
       "2021-02-05": 67,
       "2021-02-04": 140,
       "2021-01-30": 23,
-      "2021-01-24": 73,
-      "2021-01-10": 115,
-      "2021-01-09": 198
+      "2021-01-24": 73
     }
   }
 ]
