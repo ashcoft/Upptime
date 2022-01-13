@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/www.havo.co.id",
     "slug": "havo",
     "status": "up",
-    "uptime": "90.24%",
-    "uptimeDay": "92.29%",
-    "uptimeWeek": "98.90%",
-    "uptimeMonth": "98.80%",
-    "uptimeYear": "89.95%",
+    "uptime": "90.25%",
+    "uptimeDay": "94.75%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "98.81%",
+    "uptimeYear": "89.93%",
     "time": 2272,
-    "timeDay": 1646,
-    "timeWeek": 1801,
-    "timeMonth": 1861,
+    "timeDay": 1753,
+    "timeWeek": 1810,
+    "timeMonth": 1865,
     "timeYear": 2253,
     "dailyMinutesDown": {
-      "2022-01-12": 104,
+      "2022-01-12": 96,
       "2022-01-11": 7,
       "2021-12-26": 416,
       "2021-12-11": 258,
@@ -129,7 +129,8 @@
       "2021-02-06": 15,
       "2021-02-05": 21,
       "2021-02-04": 135,
-      "2021-01-30": 23
+      "2021-01-30": 23,
+      "2021-01-24": 74
     }
   },
   {
@@ -138,18 +139,18 @@
     "icon": "https://favicons.githubusercontent.com/www.dony.me",
     "slug": "dony",
     "status": "up",
-    "uptime": "89.29%",
-    "uptimeDay": "86.79%",
-    "uptimeWeek": "96.91%",
-    "uptimeMonth": "98.34%",
+    "uptime": "89.32%",
+    "uptimeDay": "90.96%",
+    "uptimeWeek": "96.99%",
+    "uptimeMonth": "98.36%",
     "uptimeYear": "88.97%",
     "time": 1838,
-    "timeDay": 1231,
-    "timeWeek": 1354,
-    "timeMonth": 1349,
-    "timeYear": 1832,
+    "timeDay": 1302,
+    "timeWeek": 1356,
+    "timeMonth": 1350,
+    "timeYear": 1831,
     "dailyMinutesDown": {
-      "2022-01-12": 183,
+      "2022-01-12": 175,
       "2022-01-11": 114,
       "2022-01-10": 15,
       "2021-12-26": 416,
@@ -266,7 +267,7 @@
       "2021-02-14": 1440,
       "2021-02-13": 1023,
       "2021-02-05": 67,
-      "2021-02-04": 124
+      "2021-02-04": 140
     }
   }
 ]
